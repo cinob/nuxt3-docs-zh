@@ -1,6 +1,7 @@
 {
   "name": "docs",
   "private": true,
+  "packageManager": "pnpm@7.9.0",
   "scripts": {
     "dev": "yarn gendocs && nuxi dev",
     "build": "yarn gendocs && nuxi generate --force-build",
@@ -14,6 +15,5 @@
     "@nuxt-themes/website": "0.1.6",
     "jiti": "^1.16.0",
     "nuxt": "^3.0.0-rc.11"
-  },
-  "packageManager": "yarn@3.2.4"
+  }
 }
