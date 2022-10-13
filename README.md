@@ -1,4 +1,4 @@
-# Nuxt 3 Docs
+# Nuxt 3 中文文档
 
-- Website: https://v3.nuxtjs.org/
-- Setup and Contribution Guide: https://v3.nuxtjs.org/community/contribution#documentation-guide
+- 网址: https://nuxt3-docs-zh.vercel.app
+- 佛系更新 边翻边学 🤔
